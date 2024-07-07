@@ -16,6 +16,7 @@
 		F941618B2C3AABC500150EE3 /* GITLABTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F941618A2C3AABC500150EE3 /* GITLABTests.swift */; };
 		F94161952C3AABC500150EE3 /* GITLABUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94161942C3AABC500150EE3 /* GITLABUITests.swift */; };
 		F94161972C3AABC500150EE3 /* GITLABUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94161962C3AABC500150EE3 /* GITLABUITestsLaunchTests.swift */; };
+		F94161A42C3AB93400150EE3 /* Demofile.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94161A32C3AB93400150EE3 /* Demofile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F94161902C3AABC500150EE3 /* GITLABUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GITLABUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F94161942C3AABC500150EE3 /* GITLABUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GITLABUITests.swift; sourceTree = "<group>"; };
 		F94161962C3AABC500150EE3 /* GITLABUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GITLABUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F94161A32C3AB93400150EE3 /* Demofile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demofile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F941617C2C3AABC500150EE3 /* Assets.xcassets */,
 				F941617E2C3AABC500150EE3 /* LaunchScreen.storyboard */,
 				F94161812C3AABC500150EE3 /* Info.plist */,
+				F94161A32C3AB93400150EE3 /* Demofile.swift */,
 			);
 			path = GITLAB;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				F94161782C3AABC400150EE3 /* ViewController.swift in Sources */,
 				F94161742C3AABC400150EE3 /* AppDelegate.swift in Sources */,
+				F94161A42C3AB93400150EE3 /* Demofile.swift in Sources */,
 				F94161762C3AABC400150EE3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
